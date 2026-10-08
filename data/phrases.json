@@ -1,0 +1,281 @@
+[
+  {
+    "id": "covid-19",
+    "category": "general",
+    "english": "COVID-19/coronavirus",
+    "rohingya_latin": "Coronavirus / Virus",
+    "rohingya_bangla": "করুনাভাইরাস / ভাইরাস",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "disease",
+    "category": "general",
+    "english": "Disease",
+    "rohingya_latin": "Biaram",
+    "rohingya_bangla": "বিয়ারাম",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "epidemic",
+    "category": "general",
+    "english": "Epidemic",
+    "rohingya_latin": "Aba biaram / Gorom biaram",
+    "rohingya_bangla": "আবা বিয়ারাম / গরম বিয়ারাম",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "pandemic",
+    "category": "general",
+    "english": "Pandemic",
+    "rohingya_latin": "Duniyat agagura foli za goide aba biaram",
+    "rohingya_bangla": "দুনিয়াত আগাগুরা ফলি যাগইদে আবা বিয়ারাম",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "health-norms",
+    "category": "general",
+    "english": "Health norms",
+    "rohingya_latin": "Aramiyotor niyom",
+    "rohingya_bangla": "আরামিয়তর নিয়ম",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "terminally-ill",
+    "category": "general",
+    "english": "Terminally ill",
+    "rohingya_latin": "Mooti biaram",
+    "rohingya_bangla": "ম'তি বিয়ারাম",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "spread-transmit",
+    "category": "transmission",
+    "english": "Spread or transmit",
+    "rohingya_latin": "Biaram faron",
+    "rohingya_bangla": "বিয়ারাম ফারন",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "virus",
+    "category": "transmission",
+    "english": "Virus",
+    "rohingya_latin": "Fuk / biaramor fuk",
+    "rohingya_bangla": "ফুক / বিয়ারামর ফুক",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "environmental-surfaces",
+    "category": "transmission",
+    "english": "Environmental surfaces",
+    "rohingya_latin": "Mainshottu dora zade chiz okkol, mesal- doroza, dorazar doroni, toros, siyar-thebil, hendhilla aro",
+    "rohingya_bangla": "মাইনশত্তু ধরা জাদে সিজ অক্কল, মেসাল- দরজা, দরজার ধরনি, তরস, সিয়ার-টেবিল, হেন্ডিল্লা আরও",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "infectious-disease",
+    "category": "transmission",
+    "english": "Infectious disease",
+    "rohingya_latin": "Hono kissur zoriya ode biaram",
+    "rohingya_bangla": "হন কিছুর জরিয়া অদে বিয়ারাম",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "contagious-disease",
+    "category": "transmission",
+    "english": "Contagious disease",
+    "rohingya_latin": "Farade biaram",
+    "rohingya_bangla": "ফারাদে বিয়ারাম",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "droplets",
+    "category": "transmission",
+    "english": "Droplets",
+    "rohingya_latin": "Furi guri sefor iyato fanir fura",
+    "rohingya_bangla": "গুরি গুরি সেফর ইয়াতো ফানির ফুড়া",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "dirt",
+    "category": "transmission",
+    "english": "Dirt",
+    "rohingya_latin": "Hosara",
+    "rohingya_bangla": "হসারা",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "social-distancing",
+    "category": "prevention",
+    "english": "Social distancing",
+    "rohingya_latin": "Ek zon arekzon loi duraduri gori takon",
+    "rohingya_bangla": "একজন আরেকজন লই দুরাদুরি গরি থাকন",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "hand-sanitizer",
+    "category": "prevention",
+    "english": "Hand sanitizer",
+    "rohingya_latin": "Aat saaf goribar dabai",
+    "rohingya_bangla": "আত সাফ গরিবার দাবাই",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "protective-gear",
+    "category": "prevention",
+    "english": "Protective gear",
+    "rohingya_latin": "Hefazot taibar samana",
+    "rohingya_bangla": "হেফাজত থাইবার সামানা",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "prevention-methods",
+    "category": "prevention",
+    "english": "Prevention methods",
+    "rohingya_latin": "Biaram rukibar torika",
+    "rohingya_bangla": "বিয়ারাম রুকিবার তরিকা",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "reusable-masks",
+    "category": "prevention",
+    "english": "Reusable masks",
+    "rohingya_latin": "Dubara estemal gori farede hendhilla maas",
+    "rohingya_bangla": "দুবারা এস্তেমাল গরি ফারেদে হেন্ডিল্লা মা'স",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "quarantine",
+    "category": "treatment",
+    "english": "Quarantine",
+    "rohingya_latin": "Mainshore alog gori rakon",
+    "rohingya_bangla": "মাইনশরে আলগ গরি রাখন",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "self-quarantine",
+    "category": "treatment",
+    "english": "Self-quarantine",
+    "rohingya_latin": "Nize baze alog oi takon",
+    "rohingya_bangla": "নিজে-বাজে আলগ অই থাকন",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "isolation",
+    "category": "treatment",
+    "english": "Isolation",
+    "rohingya_latin": "Coronavirus oile sira gori rakon",
+    "rohingya_bangla": "করুনাভাইরাস অইলে ছিরা গরি রখন",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "isolation-center",
+    "category": "treatment",
+    "english": "Isolation center / facility",
+    "rohingya_latin": "Coronavirus oile sira gori rakibar zaga",
+    "rohingya_bangla": "করুনাভাইরাস অইলে ছিরা গরি রাখিবার জাগা",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "treatment-center",
+    "category": "treatment",
+    "english": "Treatment center",
+    "rohingya_latin": "Dhath'tha-hana",
+    "rohingya_bangla": "ডাট্টাহানা",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "oxygen",
+    "category": "treatment",
+    "english": "Oxygen",
+    "rohingya_latin": "Oksijen",
+    "rohingya_bangla": "অক্সিজেন",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "oxygen-tank",
+    "category": "treatment",
+    "english": "Oxygen tank",
+    "rohingya_latin": "Oksizenor thangki",
+    "rohingya_bangla": "অক্সিজেনর টাংকি",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "prepare-body",
+    "category": "death_burial",
+    "english": "Preliminary steps to prepare the body",
+    "rohingya_latin": "Murudare saf gori gusol-asol gorai toyar gori don",
+    "rohingya_bangla": "মুরুদারে সাফ গরি গুসল-আসল গরাই তয়ার গরি দন",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "symbolic-washing",
+    "category": "death_burial",
+    "english": "Symbolic washing",
+    "rohingya_latin": "Toyommum goron",
+    "rohingya_bangla": "তয়ম্মু গরন",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "not-touching-deceased",
+    "category": "death_burial",
+    "english": "Not touching or kissing the deceased",
+    "rohingya_latin": "Murudare doitto nodon ar summa dito nodon",
+    "rohingya_bangla": "মুরুদারে দইত্ত ন'দন আর সুম্মা দিত ন'দন",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "mourners",
+    "category": "death_burial",
+    "english": "Mourners",
+    "rohingya_latin": "Hada-rada goroiya",
+    "rohingya_bangla": "হাঁদ-রাদা গরইয়া",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "body-bag",
+    "category": "death_burial",
+    "english": "Body bag",
+    "rohingya_latin": "Muruda bori rakede bek",
+    "rohingya_bangla": "মুরুদা ভরি রাকেদে বেক",
+    "audio_url": null,
+    "verified": true
+  },
+  {
+    "id": "shroud",
+    "category": "death_burial",
+    "english": "Shroud",
+    "rohingya_latin": "Kofon",
+    "rohingya_bangla": "কফন",
+    "audio_url": null,
+    "verified": true
+  }
+]
