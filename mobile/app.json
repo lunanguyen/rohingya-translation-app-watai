@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Rohingya Voice Link",
+    "slug": "rohingya-voice-link",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSMicrophoneUsageDescription": "Microphone access is needed to record speech for translation."
+      }
+    },
+    "android": {
+      "permissions": [
+        "RECORD_AUDIO"
+      ]
+    },
+    "plugins": [
+      "expo-audio"
+    ]
+  }
+}
