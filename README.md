@@ -9,7 +9,7 @@ what this is built on).
 
 ![App UI](demo/app_ui.PNG)
 
-🎥 [Watch the demo video](demo/app_demo.mov)
+🎥 [Watch the demo video here](https://github.com/user-attachments/assets/493fecd2-cb73-45d0-831c-a77d03aee754):
 
 First screen you land on is **Quick Cards**, basically a little dictionary of
 English ↔ Rohingya words. Then I hold down **"Hold to Speak Rohingya"** and say
